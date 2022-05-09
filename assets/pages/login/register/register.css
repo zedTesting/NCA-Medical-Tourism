@@ -1,0 +1,136 @@
+@font-face{font-family: Cairo-SemiBold-2;
+src: url(Cairo-SemiBold-2.woff);}
+body
+{background-image: url("1.JPG");
+background-size: cover;
+}
+
+
+.lab1{
+	margin: 0 0 0 3.5%;
+	text-align: right;
+	font-family: Cairo-SemiBold-2;
+}
+
+
+
+h1{
+	text-align: left;
+	font-family: Cairo-SemiBold-2;
+}
+
+
+.class1{
+	height: 100%;
+	width: 40%;
+	padding: 20px;
+	text-align: right;
+	border-radius: 10px;
+	margin-top: 8%;
+	margin-left: 10%;
+	font-family: Cairo-SemiBold-2;
+
+
+}
+
+input[type]{
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0px;
+	border: 1px solid #ccc;
+	border-radius: 25px;
+	box-sizing: border-box;
+	font-family: Cairo-SemiBold-2;
+
+}
+
+input[type=number]{
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0px;
+	border: 1px solid #ccc;
+	border-radius: 25px;
+	box-sizing: border-box;
+	font-family: Cairo-SemiBold-2;
+
+}
+
+input[type=password]{
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0px;
+	border: 1px solid #ccc;
+	border-radius: 25px;
+	box-sizing: border-box;
+	font-family: Cairo-SemiBold-2;
+
+}
+
+input[type=email]{
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0px;
+	border: 1px solid #ccc;
+	border-radius: 25px;
+	box-sizing: border-box;
+	font-family: Cairo-SemiBold-2;
+
+}
+
+input[type=submit]{
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0px;
+	border: 1px solid #ccc;
+	border-radius: 25px;
+	box-sizing: border-box;
+	background-color: #0AA7E8;
+	color: #f0f0f0;
+	font-family: Cairo-SemiBold-2;
+
+
+}
+
+input[type=radio]{
+	width: 30%;
+	padding: 12px 20px;
+	margin: 8px 0px;
+	border: 1px solid #ccc;
+	border-radius: 25px;
+	box-sizing: border-box;
+	background-color: #0AA7E8;
+	color: #f0f0f0;
+	font-family: Cairo-SemiBold-2;
+
+
+}
+
+img{
+	position: absolute;
+	width: 15%;
+	top: 0;
+	margin-top:4%;
+	margin-left: 8%;
+}
+
+.class2{
+
+	width: 100%;
+	padding: 10px 0px;
+	margin: 0px 0px;
+	border: 1px solid #ccc;
+	border-radius: 25px;
+	box-sizing: border-box;
+	background-color: #0AA7E8;
+	color: #f0f0f0;
+	font-family: Cairo-SemiBold-2;
+}
+
+a{
+
+	color: white;
+	margin-right: 46%;
+	text-decoration: none;
+
+
+	}
